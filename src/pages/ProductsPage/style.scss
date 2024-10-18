@@ -1,0 +1,6 @@
+.products_page {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  grid-gap: 20px;
+  width: 100%;
+}
